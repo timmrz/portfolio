@@ -7,6 +7,8 @@ import Tailwind from "../img/tailwind.png";
 import Node from "../img/node.png";
 import Mongo from "../img/mongo.png";
 import Github from "../img/github.png";
+import Typescript from "../img/typescript.png";
+import Redux from "../img/redux.png";
 
 export default function Skills() {
   return (
@@ -14,7 +16,7 @@ export default function Skills() {
       name='skills'
       className='w-full bg-[#0a192f] text-gray-300 md:h-screen'>
       {/* container */}
-      <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full '>
+      <div className='max-w-[1000px] mx-auto p-8 flex flex-col justify-center w-full h-full '>
         <div>
           <p className='text-4xl font-bold inline border-b-4 border-pink-600'>
             Skills
@@ -59,13 +61,17 @@ export default function Skills() {
           </div>
 
           <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-            <img className='w-20 mx-auto mt-4' src={Node} alt='Node icon' />
-            <p className='my-4'>NODE</p>
+            <img
+              className='w-20 mx-auto mt-4'
+              src={Typescript}
+              alt='Node icon'
+            />
+            <p className='my-4'>TYPESCRIPT</p>
           </div>
 
           <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-            <img className='w-20 mx-auto mt-4' src={Mongo} alt='Mongo icon' />
-            <p className='my-4'>MONGO DB</p>
+            <img className='w-20 mx-auto mt-4' src={Redux} alt='Mongo icon' />
+            <p className='my-4'>REDUX TOOLKIT</p>
           </div>
 
           <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
