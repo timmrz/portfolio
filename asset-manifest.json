@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7e7e93d1.css",
-    "main.js": "/portfolio/static/js/main.6c75d0bc.js",
+    "main.css": "/portfolio/static/css/main.47e74b5b.css",
+    "main.js": "/portfolio/static/js/main.8d1f5e11.js",
     "static/media/realestate.jpg": "/portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/witcher.jpg": "/portfolio/static/media/witcher.1ce14e2b380f00748499.jpg",
     "static/media/work-pars.jpg": "/portfolio/static/media/work-pars.d03abeee48fb793dffbf.jpg",
     "static/media/gpt-3.jpg": "/portfolio/static/media/gpt-3.4bda31490b7c9dcc9bf9.jpg",
     "static/media/work-store.jpg": "/portfolio/static/media/work-store.f86c965d9f7a13cea59a.jpg",
+    "static/media/medium.jpg": "/portfolio/static/media/medium.6a1496f1b5691e9da7a6.jpg",
     "static/media/work-weather.jpg": "/portfolio/static/media/work-weather.3b61d552f4f05594e614.jpg",
     "static/media/work-search.jpg": "/portfolio/static/media/work-search.880923c85419e4f1b6d6.jpg",
     "static/media/work-todo.jpg": "/portfolio/static/media/work-todo.0c493fef184ef7fad788.jpg",
@@ -21,11 +23,11 @@
     "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
-    "main.7e7e93d1.css.map": "/portfolio/static/css/main.7e7e93d1.css.map",
-    "main.6c75d0bc.js.map": "/portfolio/static/js/main.6c75d0bc.js.map"
+    "main.47e74b5b.css.map": "/portfolio/static/css/main.47e74b5b.css.map",
+    "main.8d1f5e11.js.map": "/portfolio/static/js/main.8d1f5e11.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e7e93d1.css",
-    "static/js/main.6c75d0bc.js"
+    "static/css/main.47e74b5b.css",
+    "static/js/main.8d1f5e11.js"
   ]
 }
